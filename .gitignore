@@ -1,0 +1,17 @@
+./sodi/node_modules
+.env
+
+# Hardhat files
+./sodi//cache
+./sodi//artifacts
+
+# TypeChain files
+./sodi//typechain
+./sodi//typechain-types
+
+# solidity-coverage files
+./sodi//coverage
+./sodi//coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+./sodi/ignition/deployments/chain-31337
